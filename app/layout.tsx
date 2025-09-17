@@ -12,6 +12,7 @@ export const metadata: Metadata = {
     "OxF3stus is a hardware engineer, innovator, and builder specializing in robotics, IoT, AI, and Web3 solutions.",
   keywords: [
     "OxF3stus",
+"Oxfestus",
     "Hardware Engineer",
     "Robotics",
     "IoT",
