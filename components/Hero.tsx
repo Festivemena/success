@@ -57,8 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Success, an Hardware Engineer based in Nigeria.
-          </p>
+         Hi! I'm Success, a Hardware Engineer based in Nigeria.</p>
 
           <a href="#about">
             <MagicButton
