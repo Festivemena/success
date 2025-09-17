@@ -49,8 +49,8 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a Product for the Environmental Tech Sector",
-    description: "The Inside Scoop",
+    title: "Currently building a Smart Contract Tooling for Near Protocol",
+    description: "Near Studio",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
     titleClassName: "justify-center md:justify-start lg:justify-center",
@@ -204,10 +204,12 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
+    url: "https://github.com/Festivemena",
     img: "/git.svg",
   },
   {
     id: 2,
+    url: "https://x.com/@OxF3stus_29",
     img: "/twit.svg",
   },
   {
